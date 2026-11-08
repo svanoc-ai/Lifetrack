@@ -1,0 +1,1 @@
+LifeTrack V0.5.1 — Correctifs ergonomiques et logo. Publier index.html, logo.svg, icon.svg, icon-192.png, icon-512.png et manifest.webmanifest à la racine du dépôt GitHub. Exporter les données JSON avant publication. Si l’ancienne icône iPhone reste visible, supprimer le raccourci puis le recréer depuis Safari.
