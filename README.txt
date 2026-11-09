@@ -1,1 +1,1 @@
-LifeTrack V0.5.3 — Publier les 6 fichiers applicatifs à la racine du dépôt GitHub Pages. Exporter une sauvegarde JSON avant mise à jour. Les données restent dans le stockage local du navigateur, pas de synchronisation. MB/TDEE/déficit = estimations, non mesures.
+LifeTrack V0.5.4 - Version de test. Sauvegarder les données en JSON avant toute mise à jour. Publier tous les fichiers à la racine GitHub Pages. Aucune transmission automatique à ChatGPT.
